@@ -22,6 +22,6 @@ Ce projet reproduit les fonctionnalités essentielles d'un interpreteur de comma
 - Signaux : Gestion appropriée des signaux dans différents contextes
 
 ## 📊 Résultat
-✅ Note finale : 116/100
-✅ Tests : Tous les tests obligatoires passés
-✅ Norminette : Code conforme aux standards 42
+- ✅ Note finale : 116/100
+- ✅ Tests : Tous les tests obligatoires passés
+- ✅ Norminette : Code conforme aux standards 42
